@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1027757905438",
+    "firebase_url": "https://expense-manager-4b503-default-rtdb.firebaseio.com",
+    "project_id": "expense-manager-4b503",
+    "storage_bucket": "expense-manager-4b503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027757905438:android:4a150a8239e76c62c2400f",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_I5SiRXQeRv-E3W2zLYBlM9-Z6_KKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
